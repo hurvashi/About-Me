@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hurvashi&label=Profile%20views&color=0e75b6&style=flat" alt="hurvashi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hurvashi" alt="hurvashi" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/artycanvas" target="blank"><img src="https://img.shields.io/twitter/follow/artycanvas?logo=twitter&style=for-the-badge" alt="artycanvas" /></a> </p>
 
