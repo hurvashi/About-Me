@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/artycanvas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="artycanvas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hurvashi-dewangan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hurvashi-dewangan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hurvashi-dewangan-b33b12250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hurvashi-dewangan-b33b12250" height="30" width="40" /></a>
 <a href="https://instagram.com/cosmic_hue_art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cosmic_hue_art" height="30" width="40" /></a>
 <a href="https://www.behance.net/hurvashdewanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hurvashdewanga" height="30" width="40" /></a>
 </p>
